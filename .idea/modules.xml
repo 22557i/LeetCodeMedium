@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LCMedium153/LCMedium153.iml" filepath="$PROJECT_DIR$/LCMedium153/LCMedium153.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCMedium2/LCMedium2.iml" filepath="$PROJECT_DIR$/LCMedium2/LCMedium2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium209/LCMedium209.iml" filepath="$PROJECT_DIR$/LCMedium209/LCMedium209.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium287/LCMedium287.iml" filepath="$PROJECT_DIR$/LCMedium287/LCMedium287.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCMedium3/LCMedium3.iml" filepath="$PROJECT_DIR$/LCMedium3/LCMedium3.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCMedium5/LCMedium5.iml" filepath="$PROJECT_DIR$/LCMedium5/LCMedium5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium6/LCMedium6.iml" filepath="$PROJECT_DIR$/LCMedium6/LCMedium6.iml" />
     </modules>
   </component>
 </project>
