@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LCMedium1004/LCMedium1004.iml" filepath="$PROJECT_DIR$/LCMedium1004/LCMedium1004.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LCMedium11/LCMedium11.iml" filepath="$PROJECT_DIR$/LCMedium11/LCMedium11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LCMedium142/LCMedium142.iml" filepath="$PROJECT_DIR$/LCMedium142/LCMedium142.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LCMedium15/LCMedium15.iml" filepath="$PROJECT_DIR$/LCMedium15/LCMedium15.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LCMedium153/LCMedium153.iml" filepath="$PROJECT_DIR$/LCMedium153/LCMedium153.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LCMedium16/LCMedium16.iml" filepath="$PROJECT_DIR$/LCMedium16/LCMedium16.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LCMedium2/LCMedium2.iml" filepath="$PROJECT_DIR$/LCMedium2/LCMedium2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LCMedium209/LCMedium209.iml" filepath="$PROJECT_DIR$/LCMedium209/LCMedium209.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LCMedium24/LCMedium24.iml" filepath="$PROJECT_DIR$/LCMedium24/LCMedium24.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LCMedium287/LCMedium287.iml" filepath="$PROJECT_DIR$/LCMedium287/LCMedium287.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LCMedium3/LCMedium3.iml" filepath="$PROJECT_DIR$/LCMedium3/LCMedium3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LCMedium5/LCMedium5.iml" filepath="$PROJECT_DIR$/LCMedium5/LCMedium5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LCMedium554/LCMedium554.iml" filepath="$PROJECT_DIR$/LCMedium554/LCMedium554.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LCMedium6/LCMedium6.iml" filepath="$PROJECT_DIR$/LCMedium6/LCMedium6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LCMedium725/LCMedium725.iml" filepath="$PROJECT_DIR$/LCMedium725/LCMedium725.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LCMedium842/LCMedium842.iml" filepath="$PROJECT_DIR$/LCMedium842/LCMedium842.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LCMedium92/LCMedium92.iml" filepath="$PROJECT_DIR$/LCMedium92/LCMedium92.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LeetCodeMedium.iml" filepath="$PROJECT_DIR$/.idea/LeetCodeMedium.iml" />
     </modules>
   </component>
 </project>

@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c4603ca-d0cc-4fe5-bd7e-93b45642e1f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LCMedium2/src/lcwu/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCMedium2/src/lcwu/Solution2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +21,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+        <entry file="file://$PROJECT_DIR$/LCMedium17/src/lcwu/Solution17.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -33,6 +34,40 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <entry file="file://$PROJECT_DIR$/LCMedium236/src/lcwu/Solution236.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LCMedium46/src/lcwu/Solution46.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1060">
+              <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LCMedium113/src/Solution113.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="54" column="5" selection-start-line="34" selection-start-column="4" selection-end-line="54" selection-end-column="5" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LCMedium380/src/lcwu/Solution380.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -42,6 +77,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="262">
               <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LCMedium116/src/lcwu/Solution116.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -60,6 +100,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
               <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <entry file="file://$PROJECT_DIR$/LCMedium116/src/lcwu/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -69,6 +113,28 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
               <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        <entry file="file://$PROJECT_DIR$/LCMedium113/src/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LCMedium236/src/lcwu/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="34" selection-start-line="5" selection-start-column="21" selection-end-line="6" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LCMedium74/src/lcwu/Solution74.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="15" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -81,6 +147,19 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>node</find>
+      <find>n2</find>
+      <find>temp</find>
+      <find>*</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>root</replace>
+      <replace>q</replace>
+      <replace>p</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -108,15 +187,53 @@
         <option value="$PROJECT_DIR$/LCMedium92/src/lcwu/Solution92.java" />
         <option value="$PROJECT_DIR$/LCMedium1004/src/lcwu/Solution1004.java" />
         <option value="$PROJECT_DIR$/LCMedium16/src/lcwu/Solution16.java" />
+        <option value="$PROJECT_DIR$/LCMedium739/src/lcwu/Solution739.java" />
+        <option value="$PROJECT_DIR$/LCMedium387/src/lcwu/Solution387.java" />
+        <option value="$PROJECT_DIR$/LCMedium451/src/lcwu/Solution451.java" />
+        <option value="$PROJECT_DIR$/LCMedium692/src/lcwu/Solution692.java" />
+        <option value="$PROJECT_DIR$/LCMedium617/src/lcwu/TreeNode.java" />
+        <option value="$PROJECT_DIR$/LCMedium617/src/lcwu/Solution617.java" />
+        <option value="$PROJECT_DIR$/LCMedium654/src/lcwu/Solution654.java" />
+        <option value="$PROJECT_DIR$/LCMedium669/src/lcwu/Solution669.java" />
+        <option value="$PROJECT_DIR$/LCMedium227/src/lcwu/Solution227.java" />
+        <option value="$PROJECT_DIR$/LCMedium1002/src/Solution1002.java" />
+        <option value="$PROJECT_DIR$/LCMedium1022/src/lcwu/TreeNode.java" />
+        <option value="$PROJECT_DIR$/LCMedium1022/src/lcwu/Solution1022.java" />
+        <option value="$PROJECT_DIR$/LCMedium39/src/lcwu/Solution39.java" />
+        <option value="$PROJECT_DIR$/LCMedium430/src/lcwu/Solution430.java" />
+        <option value="$PROJECT_DIR$/LCMedium208/src/lcwu/Trie.java" />
+        <option value="$PROJECT_DIR$/LCMedium214/src/lcwu/Solution214.java" />
+        <option value="$PROJECT_DIR$/LCMedium994/src/lcwu/Solution994.java" />
+        <option value="$PROJECT_DIR$/LCMedium198/src/lcwu/Solution198.java" />
+        <option value="$PROJECT_DIR$/LCMedium230/src/lcwu/TreeNode.java" />
+        <option value="$PROJECT_DIR$/LCMedium230/src/lcwu/Solution230.java" />
+        <option value="$PROJECT_DIR$/LCMedium215/src/lcwu/Solution215.java" />
+        <option value="$PROJECT_DIR$/LCMedium49/src/lcwu/Solution.java" />
+        <option value="$PROJECT_DIR$/LCMedium64/src/lcwu/Solution64.java" />
+        <option value="$PROJECT_DIR$/LCMedium647/src/lcwu/Solution647.java" />
+        <option value="$PROJECT_DIR$/LCMedium560/src/lcwu/Solution560.java" />
+        <option value="$PROJECT_DIR$/LCMedium74/src/lcwu/Solution74.java" />
+        <option value="$PROJECT_DIR$/LCMedium240/src/lcwu/Solution240.java" />
+        <option value="$PROJECT_DIR$/LCMedium17/src/lcwu/Solution17.java" />
+        <option value="$PROJECT_DIR$/LCMedium236/src/lcwu/TreeNode.java" />
+        <option value="$PROJECT_DIR$/LCMedium236/src/lcwu/Solution236.java" />
+        <option value="$PROJECT_DIR$/LCMedium46/src/lcwu/Solution46.java" />
+        <option value="$PROJECT_DIR$/LCMedium113/src/TreeNode.java" />
+        <option value="$PROJECT_DIR$/LCMedium113/src/Solution113.java" />
+        <option value="$PROJECT_DIR$/LCMedium380/src/lcwu/Solution380.java" />
+        <option value="$PROJECT_DIR$/LCMedium116/src/lcwu/Node.java" />
+        <option value="$PROJECT_DIR$/LCMedium116/src/lcwu/Solution116.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="732" />
+    <option name="height" value="710" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -125,70 +242,76 @@
       <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+      <pane id="ProjectPane">
+        <subPane>
           <expand>
             <path>
-              <item name="LeetCodeMedium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\tnaxy\Desktop\IDE&amp;Developing Instrument\LeetCode\LeetCodeMedium" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium11" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeetCodeMedium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="LCMedium3" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeetCodeMedium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="LCMedium3" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lcwu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeetCodeMedium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="LCMedium3" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="lcwu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium15" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeetCodeMedium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="LCMedium5" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium15" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeetCodeMedium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="LCMedium5" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium15" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lcwu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeetCodeMedium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="LCMedium5" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="lcwu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium17" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeetCodeMedium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="LCMedium153" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium39" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeetCodeMedium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="LCMedium153" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium46" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeetCodeMedium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="LCMedium153" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="lcwu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium46" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeetCodeMedium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="LCMedium209" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium46" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lcwu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeetCodeMedium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="LCMedium209" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium49" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeetCodeMedium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="LCMedium209" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="lcwu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium49" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium49" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lcwu" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -204,11 +327,23 @@
             <path>
               <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
               <item name="LCMedium16" type="462c0819:PsiDirectoryNode" />
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium64" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium74" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium74" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
               <item name="LCMedium16" type="462c0819:PsiDirectoryNode" />
+              <item name="LCMedium74" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lcwu" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -219,13 +354,26 @@
             <path>
               <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
               <item name="LCMedium92" type="462c0819:PsiDirectoryNode" />
+              <item name="LCMedium113" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium113" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
               <item name="LCMedium92" type="462c0819:PsiDirectoryNode" />
+              <item name="LCMedium116" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium208" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium208" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lcwu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
@@ -253,6 +401,15 @@
             <path>
               <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
               <item name="LCMedium287" type="462c0819:PsiDirectoryNode" />
+              <item name="LCMedium214" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium215" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium215" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -267,12 +424,40 @@
             <path>
               <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
               <item name="LCMedium554" type="462c0819:PsiDirectoryNode" />
+              <item name="LCMedium215" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lcwu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
               <item name="LCMedium725" type="462c0819:PsiDirectoryNode" />
+              <item name="LCMedium227" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium230" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium230" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium236" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium236" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium240" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium287" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
@@ -312,6 +497,101 @@
             <path>
               <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
               <item name="LCMedium1004" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lcwu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium380" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium380" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium430" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium451" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium560" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium617" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium617" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium617" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lcwu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium647" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium647" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium647" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lcwu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium654" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium669" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium669" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium692" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium739" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium994" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium1002" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium1022" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium1022" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeMedium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCMedium1022" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lcwu" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -319,6 +599,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -330,8 +611,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lcwu" />
+    </key>
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -350,7 +636,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution11">
+  <component name="RunManager" selected="Application.Solution46">
     <configuration name="Solution11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lcwu.Solution11" />
       <module name="LCMedium11" />
@@ -377,8 +663,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lcwu.Solution46" />
+      <module name="LCMedium46" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lcwu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution647" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lcwu.Solution647" />
+      <module name="LCMedium647" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lcwu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution46" />
+        <item itemvalue="Application.Solution647" />
         <item itemvalue="Application.Solution11" />
         <item itemvalue="Application.Solution209" />
       </list>
@@ -414,10 +728,11 @@
     <option name="totallyTimeSpent" value="30148000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="710" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19849785" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22801302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -425,18 +740,18 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32888147" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32888147" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5008143" side_tool="true" weight="0.32888147" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49918568" weight="0.32888147" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -493,6 +808,7 @@
     <entry file="file://$PROJECT_DIR$/LCMedium287/src/Solution287.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
+        <state relative-caret-position="220">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
@@ -500,6 +816,7 @@
     <entry file="file://$PROJECT_DIR$/LCMedium11/src/lcwu/Solution11.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
+        <state relative-caret-position="80">
           <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
@@ -507,6 +824,7 @@
     <entry file="file://$PROJECT_DIR$/LCMedium6/src/lcwu/Solution6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
+        <state relative-caret-position="240">
           <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
         </state>
       </provider>
@@ -514,6 +832,7 @@
     <entry file="file://$PROJECT_DIR$/LCMedium209/src/lcwu/Solution209.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1008">
+        <state relative-caret-position="840">
           <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -556,6 +875,179 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="120">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium739/src/lcwu/Solution739.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium387/src/lcwu/Solution387.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium692/src/lcwu/Solution692.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium451/src/lcwu/Solution451.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium617/src/lcwu/Solution617.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium654/src/lcwu/Solution654.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium669/src/lcwu/Solution669.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium227/src/lcwu/Solution227.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium1002/src/Solution1002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium1022/src/lcwu/Solution1022.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium39/src/lcwu/Solution39.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium1022/src/lcwu/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium617/src/lcwu/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium430/src/lcwu/Solution430.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="48" column="30" selection-start-line="21" selection-start-column="8" selection-end-line="48" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium198/src/lcwu/Solution198.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium208/src/lcwu/Trie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="41" selection-end-line="59" />
+          <folding>
+            <element signature="e#71#72#0" expanded="true" />
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium214/src/lcwu/Solution214.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
+          <folding>
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium994/src/lcwu/Solution994.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium230/src/lcwu/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium64/src/lcwu/Solution64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium647/LCMedium647.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium49/src/lcwu/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium215/src/lcwu/Solution215.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -575,6 +1067,23 @@
     <entry file="file://$PROJECT_DIR$/LCMedium842/src/lcwu/Solution842.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
+    <entry file="file://$PROJECT_DIR$/LCMedium230/src/lcwu/Solution230.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium647/src/lcwu/Solution647.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium560/src/lcwu/Solution560.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
@@ -604,6 +1113,83 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+    <entry file="file://$PROJECT_DIR$/LCMedium240/src/lcwu/Solution240.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium17/src/lcwu/Solution17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium236/src/lcwu/Solution236.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium46/src/lcwu/Solution46.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1060">
+          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium113/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium236/src/lcwu/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="34" selection-start-line="5" selection-start-column="21" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium74/src/lcwu/Solution74.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium113/src/Solution113.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="54" column="5" selection-start-line="34" selection-start-column="4" selection-end-line="54" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium380/src/lcwu/Solution380.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium116/src/lcwu/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCMedium116/src/lcwu/Solution116.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -624,6 +1210,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -657,6 +1244,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+          <last-edited>LCMedium49</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
