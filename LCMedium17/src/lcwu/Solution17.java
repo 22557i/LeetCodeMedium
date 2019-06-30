@@ -7,7 +7,7 @@ import java.util.*;
 				"", //1
 				"abc",//2
 				"def",//3
-				"qhi",//4
+				"ghi",//4
 				"jkl",//5
 				"mno",//6
 				"pqrs",//7
@@ -19,7 +19,7 @@ import java.util.*;
 		List<String> res = new LinkedList<>();
 		public List<String> letterCombinations(String digits) {
 			res.clear();
-			if (digits == "") return new LinkedList<>();
+			if (digits.equals ("")) return new LinkedList<>();
 			findCombination(digits, 0, "");
 			return res;
 		}
